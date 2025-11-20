@@ -11,7 +11,7 @@ export default function Home() {
             Vercel Demo
           </h1>
           <p className="text-xl text-gray-300">
-            Déployé automatiquement avec moi les bg.
+            Déployé automatiquement avec moi les bg et c'est comme ca qu'on fait
           </p>
         </div>
 
